@@ -4,10 +4,12 @@
 \usepackage{Sweave}
 \begin{document}
 
+% \VignetteIndexEntry{helloJavaWorld}
+
 \title{Hello Java World! A Tutorial for Interfacing to\\ Java Archives
-       inside R Packages. }
+       inside R Packages.}
 \author{Tobias Verbeke}
-\date{2008-04-19}
+\date{2008-04-28}
 
 \maketitle
 
@@ -35,7 +37,8 @@ provide a summary overview in Figure \ref{fig:pkgContents}.
 \begin{verbatim}
   helloJavaWorld
       `- inst
-          `- helloJavaWorld.Rnw       (this document)
+          `- doc
+              `- helloJavaWorld.Rnw       (this document)
           `- java
               `- hellojavaworld.jar    
       `- man
@@ -220,8 +223,8 @@ following contents\footnote{For more information on package namespaces,
 please consult Section 1.6 from the Writing R Extensions manual.}~:
 
 \begin{verbatim}
-  import(rJava)
-  export(helloJavaWorld)
+  import("rJava")
+  export("helloJavaWorld")
 \end{verbatim}
 
 \section{Use of the package}
@@ -244,6 +247,6 @@ We would like to thank Simon Urbanek for his continuous efforts
 on the \texttt{rJava} package, without which it would not have
 been possible to say Hello from Java to R. The following persons
 provided feedback and suggestions that helped improve the
-document: Duncan Murdoch.
+document: Duncan Murdoch, Hadley Wickham.
 
 \end{document}

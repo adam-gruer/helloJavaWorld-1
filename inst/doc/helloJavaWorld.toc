@@ -2,7 +2,7 @@
 \contentsline {section}{\numberline {2}Structure of the package}{1}
 \contentsline {paragraph}{\texttt {DESCRIPTION}}{1}
 \contentsline {paragraph}{\texttt {inst/java}}{2}
-\contentsline {paragraph}{\texttt {R/}}{2}
+\contentsline {paragraph}{\texttt {R/}}{3}
 \contentsline {paragraph}{NAMESPACE}{4}
 \contentsline {section}{\numberline {3}Use of the package}{5}
 \contentsline {section}{\numberline {4}Acknowledgements}{5}

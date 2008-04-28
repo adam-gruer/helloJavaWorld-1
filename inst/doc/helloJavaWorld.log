@@ -1,6 +1,5 @@
-This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2008.4.1)  19 APR 2008 22:02
+This is pdfTeXk, Version 3.141592-1.40.3 (Web2C 7.5.6) (format=pdflatex 2008.4.1)  28 APR 2008 22:01
 entering extended mode
- Source specials enabled.
  %&-line parsing enabled.
 **helloJavaWorld.tex
 (./helloJavaWorld.tex
@@ -40,7 +39,7 @@ LaTeX Font Info:    Redeclaring font encoding OT1 on input line 43.
 \Urlmuskip=\muskip10
 Package: url 2005/06/27  ver 3.2  Verb mode for urls, etc.
 )
-(/usr/share/texmf/tex/latex/R/Sweave.sty
+(/usr/share/R/share/texmf/Sweave.sty
 Package: Sweave 
 
 (/usr/share/texmf-texlive/tex/latex/base/ifthen.sty
@@ -83,7 +82,7 @@ Style option: `fancyvrb' v2.6, with DG/SPQR fixes <1998/07/17> (tvz)
 \FV@OutFile=\write3
 
 No file fancyvrb.cfg.
-) (/usr/share/texmf/tex/latex/R/upquote.sty
+) (/usr/share/R/share/texmf/upquote.sty
 Package: upquote 2003/08/11 v1.1 Covington's upright-quote modification to verb
 atim and verb
 
@@ -198,69 +197,69 @@ File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 12.
+(Font)              <12> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 12.
+(Font)              <8> on input line 14.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 12.
+(Font)              <6> on input line 14.
  (./helloJavaWorld.toc)
 \tf@toc=\write4
 \openout4 = `helloJavaWorld.toc'.
 
-LaTeX Font Info:    Try loading font information for T1+aett on input line 20.
+LaTeX Font Info:    Try loading font information for T1+aett on input line 22.
 
 (/usr/share/texmf-texlive/tex/latex/ae/t1aett.fd
 File: t1aett.fd 1997/11/16 Font definitions for T1/aett.
 )
-LaTeX Font Info:    Try loading font information for TS1+aett on input line 48.
+LaTeX Font Info:    Try loading font information for TS1+aett on input line 51.
 
 
-(/usr/share/texmf/tex/latex/R/ts1aett.fd
+(/usr/share/R/share/texmf/ts1aett.fd
 File: ts1aett.fd 
 )
-LaTeX Font Info:    Try loading font information for TS1+cmtt on input line 48.
+LaTeX Font Info:    Try loading font information for TS1+cmtt on input line 51.
 
 
 (/usr/share/texmf-texlive/tex/latex/base/ts1cmtt.fd
 File: ts1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `TS1/aett/m/n' in size <10.95> not available
-(Font)              Font shape `TS1/cmtt/m/n' tried instead on input line 48.
+(Font)              Font shape `TS1/cmtt/m/n' tried instead on input line 51.
 
 
 LaTeX Font Warning: Font shape `T1/aett/bx/n' undefined
-(Font)              using `T1/aett/m/n' instead on input line 56.
+(Font)              using `T1/aett/m/n' instead on input line 59.
 
-LaTeX Font Info:    Try loading font information for TS1+aer on input line 61.
-(/usr/share/texmf/tex/latex/R/ts1aer.fd
+LaTeX Font Info:    Try loading font information for TS1+aer on input line 64.
+(/usr/share/R/share/texmf/ts1aer.fd
 File: ts1aer.fd 
 )
 LaTeX Font Info:    Font shape `TS1/aer/m/n' in size <10.95> not available
-(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 61.
+(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 64.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-Overfull \hbox (99.02222pt too wide) in paragraph at lines 130--130
+Overfull \hbox (99.02222pt too wide) in paragraph at lines 133--133
 []    \T1/aett/bx/n/10.95 hjw <- .jnew("HelloJavaWorld")     # create instance 
 of HelloJavaWorld class[] 
  []
 
 
-Overfull \hbox (12.95555pt too wide) in paragraph at lines 130--130
+Overfull \hbox (12.95555pt too wide) in paragraph at lines 133--133
 []    \T1/aett/bx/n/10.95 out <- .jcall(hjw, "S", "sayHello")  # invoke sayHell
 o method[] 
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 134.
+(Font)              <10.95> on input line 137.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 136.
+(Font)              <9> on input line 139.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 136.
+(Font)              <5> on input line 139.
 [3]
-Underfull \hbox (badness 10000) in paragraph at lines 192--194
-[][]\T1/aer/m/n/10.95 Java ob-ject of class \T1/aett/bx/n/10.95 <class> \T1/aer
-/m/n/10.95 (e.g.
+Underfull \hbox (badness 10000) in paragraph at lines 195--197
+[]\T1/aer/m/n/10.95 Java ob-ject of class \T1/aett/bx/n/10.95 <class> \T1/aer/m
+/n/10.95 (e.g.
  []
 
 [4] [5] (./helloJavaWorld.aux)
@@ -270,7 +269,7 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
  1946 strings out of 94101
- 26291 string characters out of 1165811
+ 26255 string characters out of 1165811
  72532 words of memory out of 1500000
  5172 multiletter control sequences out of 10000+50000
  32852 words of font info for 72 fonts, out of 1200000 for 2000
@@ -286,7 +285,7 @@ fb></usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr12.pfb></usr/share/texmf
 </usr/share/texmf-texlive/fonts/type1/bluesky/cm/cmr9.pfb></usr/share/texmf-tex
 live/fonts/type1/bluesky/cm/cmtt10.pfb></usr/share/texmf-texlive/fonts/type1/bl
 uesky/cm/cmtt9.pfb>
-Output written on helloJavaWorld.pdf (5 pages, 86193 bytes).
+Output written on helloJavaWorld.pdf (5 pages, 85882 bytes).
 PDF statistics:
  68 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 131072)
